@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDdcae7fd6d7520110475315c725177c8f</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>bbf8779a2f1201108e45b2e72799b6ec</scope_name>
+        <serialized_content>{"FlowDesigner:FDdcae7fd6d7520110475315c725177c8f":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDdcae7fd6d7520110475315c725177c8f.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"7e832b8f-418e-4f09-af9c-cd2de1837322\",\"uiTypeLabel\":\"\",\"co_type_name\":\"FDdcae7fd6d7520110475315c725177c8f\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"2\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-20 10:23:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>90ae7fd62f5201108e45b2e72799b690</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDdcae7fd6d7520110475315c725177c8f</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Workflow It" source="x_167018_workflo_0">bbf8779a2f1201108e45b2e72799b6ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workflow It">bbf8779a2f1201108e45b2e72799b6ec</sys_scope>
+        <sys_update_name>sys_complex_object_90ae7fd62f5201108e45b2e72799b690</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-20 10:23:10</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
